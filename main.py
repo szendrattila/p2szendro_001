@@ -1,5 +1,5 @@
 """
-4. Feladat
+Feladat:
 Írj egy programot, amely a felhasználótól bekér 3 szót, ezeket egy listában tárolja, és egy eljárás segítségével meghatározza, és a képernyőre kiírja, melyik a legrövidebb szó!
 """
 lista= []
